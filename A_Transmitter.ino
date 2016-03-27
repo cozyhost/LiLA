@@ -31,7 +31,7 @@ void loop()
     pirState = LOW;
     delay(1000);
       
-    } //else {
+    } //else { // We did not need the else statement
     
       //if (pirState == HIGH){
       // we have just turned of
